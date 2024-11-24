@@ -1,0 +1,1 @@
+MONGO = mongodb+srv://javierbaiocco:<db_password>@cluster0.73sbo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
